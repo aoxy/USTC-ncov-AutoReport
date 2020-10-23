@@ -37,6 +37,8 @@
 
 8. 在Github个人设置页面的Notifications下可以设置Github Actions的通知，建议打开Email通知，并勾选"Send notifications for failed workflows only"。
 
+9. 2020年10月23日14点36分更新该README。
+
 ## data.json 数据获取方法
 
 使用 F12 开发者工具抓包之后得到数据，按照 json 格式写入 `data.json` 中。
